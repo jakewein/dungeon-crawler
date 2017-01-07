@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/manabar.js">
+    <Files>
+      <File FileName="Assets/Hero.js" Line="25" Column="21" />
+      <File FileName="Assets/Enemy.js" Line="6" Column="34" />
+      <File FileName="Assets/Menu.js" Line="75" Column="29" />
+      <File FileName="Assets/healthbarenemy.js" Line="11" Column="3" />
+      <File FileName="Assets/healthbarhero.js" Line="5" Column="41" />
+      <File FileName="Assets/manabar.js" Line="3" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
